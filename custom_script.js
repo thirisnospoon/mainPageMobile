@@ -28,3 +28,4 @@ window.addEventListener('scroll', () => {
         stickySearch.classList.add('hidden-block');
     }
     });
+
